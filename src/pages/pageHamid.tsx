@@ -1,7 +1,7 @@
 const PageHamid = () => {
   return (
     <div>
-      <h2>Ayesha Hamid</h2>
+      <h1>Ayesha Hamid</h1>
     </div>
   )
 };
